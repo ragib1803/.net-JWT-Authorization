@@ -841,19 +841,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ragib.alam\\.nuget\\packages\\": {}
+    "C:\\Users\\umaar.morshed\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ragib.alam\\source\\repos\\jwt_token\\jwt_token\\jwt_token.csproj",
+      "projectUniqueName": "D:\\umaar.morshed-Leads\\JWT\\development\\.net-JWT-Authorization\\jwt_token\\jwt_token.csproj",
       "projectName": "jwt_token",
-      "projectPath": "C:\\Users\\ragib.alam\\source\\repos\\jwt_token\\jwt_token\\jwt_token.csproj",
-      "packagesPath": "C:\\Users\\ragib.alam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ragib.alam\\source\\repos\\jwt_token\\jwt_token\\obj\\",
+      "projectPath": "D:\\umaar.morshed-Leads\\JWT\\development\\.net-JWT-Authorization\\jwt_token\\jwt_token.csproj",
+      "packagesPath": "C:\\Users\\umaar.morshed\\.nuget\\packages\\",
+      "outputPath": "D:\\umaar.morshed-Leads\\JWT\\development\\.net-JWT-Authorization\\jwt_token\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ragib.alam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\umaar.morshed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
