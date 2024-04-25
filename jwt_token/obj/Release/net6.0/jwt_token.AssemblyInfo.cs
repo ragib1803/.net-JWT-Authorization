@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("jwt_token")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f35f58e5905aa88bc7391d646c08bc3faf4f43b5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a3f617258d366e3ca0d00af3674c3e0c1823df1f")]
 [assembly: System.Reflection.AssemblyProductAttribute("jwt_token")]
 [assembly: System.Reflection.AssemblyTitleAttribute("jwt_token")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
