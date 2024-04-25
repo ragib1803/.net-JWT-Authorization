@@ -1,5 +1,6 @@
 namespace WebApi.Authorization;
 
+using jwt_token.Models;
 using Microsoft.Extensions.Options;
 using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
@@ -11,7 +12,7 @@ using WebApi.Helpers;
 
 public interface IJwtUtils
 {
-    public string GenerateJwtToken(User user);
+    public string GenerateJwtToken(Users user);
     public int? ValidateJwtToken(string token);
     public RefreshToken GenerateRefreshToken(string ipAddress);
 }
